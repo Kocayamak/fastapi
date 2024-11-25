@@ -1,0 +1,6 @@
+name = "fast-api"
+compatibility-date = "2024
+
+[vars]
+UPSTASH_REDIS_REST_URL="https://leading-phoenix-45527.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="AbHXAAIjcDE1YmI1YjVjZjUxOWQ0N2ZjYjMzYmQ5YmE0Y2E2NDI5ZHAxMA"
