@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useState } from "react";
 
 export default function Home() {
@@ -27,6 +26,7 @@ export default function Home() {
       <input
         value={input}
         onChange={(e) => setInput(e.target.value)}
+        className="text-zinc-900"
         type="text"
       />
     </div>
